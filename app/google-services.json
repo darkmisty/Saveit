@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "88347994556",
+    "firebase_url": "https://saveit-da085.firebaseio.com",
+    "project_id": "saveit-da085",
+    "storage_bucket": "saveit-da085.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88347994556:android:b50a5d8e66378c9c",
+        "android_client_info": {
+          "package_name": "com.example.nisha.saveit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88347994556-so1oo4vngrvm6608kkr6lqeq9csmsjda.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nisha.saveit",
+            "certificate_hash": "4b5c7ccefd98b4c34400d5e60d4b9604a8e446fe"
+          }
+        },
+        {
+          "client_id": "88347994556-0jknqt0nslemgkmetaacampth4c2rjip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB8uQT36paItWmXOWxGALtPGINgh6FsEs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88347994556-0jknqt0nslemgkmetaacampth4c2rjip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

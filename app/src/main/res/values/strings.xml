@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Save it</string>
+    <string name="welcome_to_saveit">Welcome to Saveit</string>
+    <string name="need_a_new_account">Need a new account</string>
+    <string name="already_have_an_account">Already have an account</string>
+    <string name="create_note">Create Note</string>
+    <string name="type_your_description_here">Type your description here...</string>
+    <string name="type_your_title_here">Type your title here...</string>
+    <string name="sign_in">Sign In</string>
+    <string name="register">Register</string>
+    <string name="title_gizmos" />
+
+</resources>
